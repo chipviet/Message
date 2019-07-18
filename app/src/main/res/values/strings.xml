@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Messeger</string>
+    <string name="agora_app_id">8ce0f9e0539442bbb3a70fca101b5bd3</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
